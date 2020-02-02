@@ -1,1 +1,1 @@
-# php_randomsayi
+# PHP ile random sayı üretme çalışması
